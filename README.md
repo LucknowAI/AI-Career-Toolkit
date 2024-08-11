@@ -23,6 +23,29 @@
 - 🗺️ **Learning Roadmaps**: Curated paths for different AI specializations
 - 📊 **Industry Insights**: Stay updated with the latest AI trends
 
+
+
+# Resume Templates
+
+| Repository | Description | Stars | Last Updated |
+|------------|-------------|-------|--------------|
+| [home](https://github.com/hashirshoaeb/home) | A beautiful portfolio template for developers | ![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/hashirshoaeb/home.svg?style=flat) |
+| [Portfolio-Website-Template](https://github.com/rishabhnmishra/Portfolio-Website-Template) | A simple and elegant portfolio template | ![GitHub stars](https://img.shields.io/github/stars/rishabhnmishra/Portfolio-Website-Template.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/rishabhnmishra/Portfolio-Website-Template.svg?style=flat) |
+| [freemo](https://github.com/diiegopereira/freemo) | A free, modern portfolio template | ![GitHub stars](https://img.shields.io/github/stars/diiegopereira/freemo.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/diiegopereira/freemo.svg?style=flat) |
+| [portfolio-template-v2](https://github.com/hrishikeshpaul/portfolio-template-v2) | A sleek, customizable portfolio template | ![GitHub stars](https://img.shields.io/github/stars/hrishikeshpaul/portfolio-template-v2.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/hrishikeshpaul/portfolio-template-v2.svg?style=flat) |
+| [free-developer-portfolio-template](https://github.com/VitoMedlej/free-developer-portfolio-template) | A modern, responsive portfolio template for developers | ![GitHub stars](https://img.shields.io/github/stars/VitoMedlej/free-developer-portfolio-template.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/VitoMedlej/free-developer-portfolio-template.svg?style=flat) |
+| [albert-html](https://github.com/templatecookie/albert-html) | A clean and minimalist portfolio template | ![GitHub stars](https://img.shields.io/github/stars/templatecookie/albert-html.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/templatecookie/albert-html.svg?style=flat) |
+| [portfolio](https://github.com/mrarzimanli/portfolio) | A versatile portfolio template with various sections | ![GitHub stars](https://img.shields.io/github/stars/mrarzimanli/portfolio.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/mrarzimanli/portfolio.svg?style=flat) |
+| [diy-portfolio](https://github.com/ManishReddyN/diy-portfolio) | A customizable, DIY portfolio template | ![GitHub stars](https://img.shields.io/github/stars/ManishReddyN/diy-portfolio.svg?style=social) | ![Last Updated](https://img.shields.io/github/last-commit/ManishReddyN/diy-portfolio.svg?style=flat) |
+
+
+
+
+
+
+
+
+
 ## 🎯 Our Mission
 
 To empower the next generation of AI professionals with practical tools, templates, and knowledge to stand out in a competitive job market.

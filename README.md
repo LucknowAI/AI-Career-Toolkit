@@ -6,7 +6,9 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7389D8&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/YOUR_INVITE_LINK)
+  <a href="https://discord.gg/QKw67PDZUm">
+    <img src="https://img.shields.io/badge/Discord-Community-orange" alt="Community" />
+  </a>
 
 **A comprehensive resource hub for launching and advancing careers in AI, ML, and related fields.**
 

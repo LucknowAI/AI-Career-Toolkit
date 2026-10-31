@@ -46,6 +46,10 @@
 
 
 
+## Job Search Tools
+
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 ## 🎯 Our Mission
 
 To empower the next generation of AI professionals with practical tools, templates, and knowledge to stand out in a competitive job market.
